@@ -2,8 +2,7 @@
 #### Design and Development
 ![Design and Development](https://github.com/ashishtripathi1110/ashishtripathi1110/blob/main/saxscbc%20(1).png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
+I'm Ashish Tripathi from India, and I do content on Design and Development. I really enjoy learning language and frameworks like React and React Native.
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
