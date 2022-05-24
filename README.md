@@ -1,4 +1,4 @@
-### Hi there 👋, Ashish Tripathi
+### Hi  👋,I'm Ashish Tripathi
 #### Design and Development
 ![Design and Development](https://github.com/ashishtripathi1110/ashishtripathi1110/blob/main/saxscbc%20(1).png)
 
